@@ -2,6 +2,7 @@
 
 This project is my deep dive into Tesla's operations — not from press releases or investor calls, but straight from the numbers. I set out to uncover insights hidden in operational data, exploring what really drives Tesla’s business beneath the headlines.
 
+Note: Dataset is Chatgpt generated
 ---
 
 ##  Why I Chose This Project
